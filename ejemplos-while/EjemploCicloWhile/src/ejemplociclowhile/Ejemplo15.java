@@ -21,3 +21,9 @@ public class Ejemplo15 {
     }
     
 }
+
+/*
+En este ciclo nunca se ingresa ya que la condicion para entrar de
+"contador < limite" es falsa, y los ciclos while solo se cumplen cuando la 
+condicion es verdadera
+*/
